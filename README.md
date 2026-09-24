@@ -19,7 +19,7 @@ semantic HTML5 elements and an external stylesheet.
   hover styling and `article h2` for heading styling inside articles.
 
 ## Live Site
-https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+https://Ramon-Nunez.github.io/Ramon-Nunez/
 
 ## Author
 Ramon
